@@ -3,3 +3,10 @@ The program takes a string value and returns the result of mathematical expressi
 
 Used shunting yard algorithm to convert infix expressions to postfix.
 Used stack data structure to handle the mathematical operations.
+
+Supported function types:
+-polynomial
+-exponential
+-logarithmic
+-trigonometric
+-inverse trigonometric
